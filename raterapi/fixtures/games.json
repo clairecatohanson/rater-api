@@ -1,0 +1,142 @@
+[
+  {
+    "model": "raterapi.game",
+    "pk": 1,
+    "fields": {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "An epic open-air adventure across a vast wilderness.",
+      "designer": "Nintendo EPD",
+      "year_released": 2017,
+      "number_players": 1,
+      "estimated_time": "72:00:00",
+      "age_recommendation": 10,
+      "user": 4
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 2,
+    "fields": {
+      "title": "Red Dead Redemption 2",
+      "description": "An outlaw epic set across the vast and unforgiving American frontiers.",
+      "designer": "Rockstar Games",
+      "year_released": 2018,
+      "number_players": 1,
+      "estimated_time": "60:00:00",
+      "age_recommendation": 18,
+      "user": 4
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 3,
+    "fields": {
+      "title": "Super Mario Odyssey",
+      "description": "A globe-trotting 3D adventure for the beloved plumber.",
+      "designer": "Nintendo EPD",
+      "year_released": 2017,
+      "number_players": 1,
+      "estimated_time": "24:00:00",
+      "age_recommendation": 7,
+      "user": 1
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 4,
+    "fields": {
+      "title": "God of War",
+      "description": "A narrative-driven action-adventure game set in the Norse realm.",
+      "designer": "Santa Monica Studio",
+      "year_released": 2018,
+      "number_players": 1,
+      "estimated_time": "30:00:00",
+      "age_recommendation": 18,
+      "user": 2
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 5,
+    "fields": {
+      "title": "Fortnite",
+      "description": "A free-to-play battle royale game with building mechanics.",
+      "designer": "Epic Games",
+      "year_released": 2017,
+      "number_players": 100,
+      "estimated_time": "01:00:00",
+      "age_recommendation": 12,
+      "user": 3
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 6,
+    "fields": {
+      "title": "Minecraft",
+      "description": "A sandbox game where players build and explore virtual worlds.",
+      "designer": "Mojang Studios",
+      "year_released": 2011,
+      "number_players": 8,
+      "estimated_time": "120:00:00",
+      "age_recommendation": 7,
+      "user": 6
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 7,
+    "fields": {
+      "title": "Overwatch",
+      "description": "A team-based multiplayer first-person shooter.",
+      "designer": "Blizzard Entertainment",
+      "year_released": 2016,
+      "number_players": 12,
+      "estimated_time": "01:00:00",
+      "age_recommendation": 12,
+      "user": 4
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 8,
+    "fields": {
+      "title": "Assassin's Creed Odyssey",
+      "description": "An action role-playing game set in ancient Greece.",
+      "designer": "Ubisoft Quebec",
+      "year_released": 2018,
+      "number_players": 1,
+      "estimated_time": "48:00:00",
+      "age_recommendation": 18,
+      "user": 4
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 9,
+    "fields": {
+      "title": "Call of Duty: Modern Warfare",
+      "description": "A first-person shooter with a gritty, modern-day setting.",
+      "designer": "Infinity Ward",
+      "year_released": 2019,
+      "number_players": 64,
+      "estimated_time": "08:00:00",
+      "age_recommendation": 18,
+      "user": 6
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 10,
+    "fields": {
+      "title": "The Witcher 3: Wild Hunt",
+      "description": "An action role-playing game set in a fantasy world.",
+      "designer": "CD Projekt Red",
+      "year_released": 2015,
+      "number_players": 1,
+      "estimated_time": "96:00:00",
+      "age_recommendation": 18,
+      "user": 5
+    }
+  }
+]
