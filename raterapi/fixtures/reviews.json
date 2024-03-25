@@ -1,0 +1,202 @@
+[
+  {
+    "model": "raterapi.review",
+    "pk": 1,
+    "fields": {
+      "comment": "This game is an absolute masterpiece! The graphics, gameplay, and story are all top-notch.",
+      "game": 4,
+      "user": 3,
+      "timestamp": "2023-04-15T12:34:56.789Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 2,
+    "fields": {
+      "comment": "I was really disappointed with this game. The controls felt clunky, and the storyline was underwhelming.",
+      "game": 9,
+      "user": 5,
+      "timestamp": "2023-03-22T09:12:34.567Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 3,
+    "fields": {
+      "comment": "While the graphics are stunning, the game feels repetitive after a few hours of gameplay.",
+      "game": 2,
+      "user": 1,
+      "timestamp": "2023-02-28T17:45:12.345Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 4,
+    "fields": {
+      "comment": "This game is a must-play for any fan of the genre. The level design and challenge are top-notch.",
+      "game": 6,
+      "user": 4,
+      "timestamp": "2023-04-10T08:22:11.234Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 5,
+    "fields": {
+      "comment": "I didn't expect much from this game, but it ended up being one of the most enjoyable experiences I've had in a while.",
+      "game": 8,
+      "user": 2,
+      "timestamp": "2023-01-15T20:56:43.123Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 6,
+    "fields": {
+      "comment": "The game has a lot of potential, but it feels like it was rushed to release with too many bugs and glitches.",
+      "game": 1,
+      "user": 6,
+      "timestamp": "2023-03-01T14:29:57.890Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 7,
+    "fields": {
+      "comment": "I'm a big fan of the series, and this latest installment didn't disappoint. The developers really listened to the community's feedback.",
+      "game": 5,
+      "user": 3,
+      "timestamp": "2023-04-20T11:11:11.111Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 8,
+    "fields": {
+      "comment": "The game's soundtrack is absolutely phenomenal and really adds to the overall atmosphere.",
+      "game": 7,
+      "user": 1,
+      "timestamp": "2023-02-14T06:30:45.678Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 9,
+    "fields": {
+      "comment": "While the gameplay is solid, the story falls flat and feels like an afterthought.",
+      "game": 10,
+      "user": 5,
+      "timestamp": "2023-03-28T23:18:27.456Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 10,
+    "fields": {
+      "comment": "This game is a perfect example of how to balance challenging gameplay with an engaging narrative.",
+      "game": 3,
+      "user": 4,
+      "timestamp": "2023-01-05T16:42:08.234Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 11,
+    "fields": {
+      "comment": "I had high hopes for this game, but it feels like a rushed cash grab with minimal effort put into it.",
+      "game": 6,
+      "user": 2,
+      "timestamp": "2023-04-12T09:35:16.789Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 12,
+    "fields": {
+      "comment": "The game's multiplayer mode is where it truly shines, offering endless hours of fun with friends.",
+      "game": 8,
+      "user": 6,
+      "timestamp": "2023-03-19T21:07:30.456Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 13,
+    "fields": {
+      "comment": "While not perfect, this game is a solid entry in the franchise and a step in the right direction.",
+      "game": 4,
+      "user": 1,
+      "timestamp": "2023-02-25T13:51:24.123Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 14,
+    "fields": {
+      "comment": "The game's world is vast and immersive, but the side quests can feel repetitive and grindy.",
+      "game": 7,
+      "user": 3,
+      "timestamp": "2023-04-03T07:18:30.789Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 15,
+    "fields": {
+      "comment": "This game is a true masterclass in storytelling and character development.",
+      "game": 2,
+      "user": 5,
+      "timestamp": "2023-01-22T04:25:37.456Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 16,
+    "fields": {
+      "comment": "The game's difficulty curve is frustratingly steep, making it almost impossible to progress without constant grinding.",
+      "game": 9,
+      "user": 4,
+      "timestamp": "2023-03-10T18:42:51.123Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 17,
+    "fields": {
+      "comment": "While not a groundbreaking title, this game offers a solid and enjoyable experience for fans of the genre.",
+      "game": 5,
+      "user": 2,
+      "timestamp": "2023-02-07T11:59:43.789Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 18,
+    "fields": {
+      "comment": "This game is a true gem, offering a unique and refreshing take on the genre.",
+      "game": 1,
+      "user": 6,
+      "timestamp": "2023-04-18T22:31:06.456Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 19,
+    "fields": {
+      "comment": "The game's combat system is fluid and satisfying, but the boss battles can be frustratingly difficult.",
+      "game": 10,
+      "user": 3,
+      "timestamp": "2023-01-30T15:48:12.123Z"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 20,
+    "fields": {
+      "comment": "While not without its flaws, this game is a must-play for fans of the developer's previous titles.",
+      "game": 6,
+      "user": 1,
+      "timestamp": "2023-03-14T10:22:35.789Z"
+    }
+  }
+]
